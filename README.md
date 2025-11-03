@@ -1,3 +1,3 @@
-# ProgramaCadasSimples
+# Programa de cadastro simples
 
-🚥🔨 Readme em andamento ⚠️🚧
+🚥 Aplicativo de estudo 🔨 Readme em andamento ⚠️🚧
